@@ -20,20 +20,21 @@
 		"cityStrength": 5,
 		"cityHealth": 18,
 		"happiness": 1,
+		"culture": 1,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured","[35]% Production when constructing [Mounted] units [in this city]<when at war>"]
+		"requiredTech": "Engineering",
+		"uniques": ["Destroyed when the city is captured","[+35]% Production when constructing [Mounted] units [in this city] <when at war>"]
 	},
 	
 	{
 		"name": "Armorer",
 		"cost": "120",
-		"uniqueTo": "Ostia",
+		"uniqueTo": "The Lycian League",
 		"replaces": "Forge",
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Copper","Iron","Silver"],
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Iron Working",
 		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Gold] from [Copper] tiles [in this city]",
 			"[+2 Gold] from [Iron] tiles [in this city]",
@@ -131,7 +132,7 @@
 	{
 		"name": "Ostian Walls",
 		"cost": "75",
-		"uniqueTo": "Duchy of Ostia",
+		"uniqueTo": "The Lycian League",
 		"replaces": "Walls",
 		"cityStrength": 6,
 		"cityHealth": 75,
@@ -166,7 +167,7 @@
 	{
 		"name": "Binding Blade",
 		"cost": "200",
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Iron Working",
 		"isNationalWonder": true,
 		"uniqueTo": "The Lycian League",
 		"uniques": ["Unsellable","Free [Roy (Medieval)] appears","Will not be displayed in Civilopedia","Provides [1] [Binding Blade]","Cannot be purchased"]
@@ -176,7 +177,7 @@
 		"name": "Mani Katti Shrine",
 		"cost": "200",
 		"faith": 1,
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Iron Working",
 		"isNationalWonder": true,
 		"uniqueTo": "Sacaean",
 		"uniques": ["Unsellable","Free [Lyn (Medieval)] appears","Will not be displayed in Civilopedia","Provides [1] [Mani Katti]","Cannot be purchased"]
