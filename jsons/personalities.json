@@ -34,4 +34,22 @@
     "Liberty": 30
 }
         },
+{
+"name": "Zephiel",
+                "preferredVictoryType": "Domination",
+                "food": 1,
+                "production": 7,
+                "gold": 4,
+                "culture": 5,
+                "science": 6,
+                "faith": 6,
+                "military": 8,
+                "warMongering": 10,
+"priorities": {
+    "Tradition": 20,
+    "Honor": 30,
+    "Autocracy": 90,
+"Rationalism": 20
+}
+        },
 ]
