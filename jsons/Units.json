@@ -206,18 +206,18 @@
 	{
 		"name": "Nomadic Trooper",
 		"uniqueTo": "Sacaean",
-		"unitType": "Archery",
-		"replaces": "Knight",
-		"cost": "120",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"cost": "75",
 		"movement": "4",
-		"strength": "16",
-		"rangedStrength": "16",
-		"requiredTech": "Chivalry",
+		"strength": "10",
+		"rangedStrength": "10",
+		"requiredTech": "Horseback Riding",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"promotions": ["Mobility"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Will not be displayed in Civilopedia"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "arrow"
 	},
 	
@@ -257,16 +257,16 @@
 	{
 		"name": "Wyvern Rider",
 		"unitType": "Flying Mount", 
-		"replaces": "Pikeman",
+		"replaces": "Spearman",
 		"movement": "5",
-		"strength": "24",
-		"cost": "120",
+		"strength": "17",
+		"cost": "75",
 		"uniqueTo": "Bern"
-		"requiredTech": "Civil Service",
+		"requiredTech": "Horsback Riding",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Wyvern Lord",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Can pass through impassable tiles","Ignores terrain cost","Upgrades to a stronger version"],
-		"attackSound": "metalhit"
+		"attackSound": "Elephant"
 	},
 	
 	{
@@ -373,7 +373,7 @@
 		"strength": "20",
 		"cost": "80",
 		"hurryCostModifier": "20",
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Iron Working",
 		"requiredResource": "Binding Blade"
 		"upgradesTo": "Roy (Renaissance)",
 		"uniques": ["Can be upgraded each era","Cannot be purchased"],
@@ -480,7 +480,7 @@
 		"strength": "20",
 		"cost": "80",
 		"hurryCostModifier": "20",
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Iron Working",
 		"requiredResource": "Durandal"
 		"upgradesTo": "Eliwood (Renaissance)",
 		"uniques": ["Can be upgraded each era","Cannot be purchased"],
@@ -591,7 +591,7 @@
 		"strength": "20",
 		"cost": "80",
 		"hurryCostModifier": "20",
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Iron Working",
 		"requiredResource": "Mani Katti",
 		"upgradesTo": "Lyn (Renaissance)",
 		"uniques": ["Can be upgraded each era","Cannot be purchased"],
