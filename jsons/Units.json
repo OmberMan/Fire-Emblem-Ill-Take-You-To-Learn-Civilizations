@@ -156,13 +156,12 @@
 		"name": "Armored Knight",
 		"unitType": "Sword",
 		"uniqueTo": "The Lycian League",
-		
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <when defending>", "[+33]% Strength <when attacking> <vs [Fortified] units>", "[-20]% Strength <when attacking>", "[+20]% Strength <when attacking> <vs cities>", "[+33]% Strength <when attacking> <with [20]% chance>"],
 		"movement": 1,
-		"strength": 17,
+		"strength": 15,
 		"cost": 65,
 		"requiredTech": "Iron Working",
-		"requiredResource": "Iron",
-		"upgradesTo": "General",
+		"requiredResource": "Iron",
 		"promotions": ["Cover I"],
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit" 
@@ -262,7 +261,7 @@
 		"strength": "17",
 		"cost": "75",
 		"uniqueTo": "Bern"
-		"requiredTech": "Horsback Riding",
+		"requiredTech": "Horseback Riding",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Wyvern Lord",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Can pass through impassable tiles","Ignores terrain cost","Upgrades to a stronger version"],
