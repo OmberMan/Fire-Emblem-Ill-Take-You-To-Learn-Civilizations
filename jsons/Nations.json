@@ -33,7 +33,7 @@
 		"innerColor": [200,170,132],
 		"uniqueName": "The Hero-King",
 		"uniques": ["[+5 Happiness, +2 Culture, +2 Production] from every [Palace]"],
-		"cities": ["Castle Altea","Aritia","Sera","Anrisa","Marcelin","Aretin","Marcondia","Rolan","Casseli","Calendor","Gohor","Rolassia","Alitia","Vinlyia","Herokiv",],
+		"cities": ["Castle Altea","Aritia","Sera","Anrisa","Marcelin","Aretin","Marcondia","Rolan","Casseli","Calendor","Gohor","Rolassia","Alitia","Vinlyia","Herokiv"],
         "spyNames": ["Kris", "Katarina", "Arran", "Gordin", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Cecil"]
 	},
 
@@ -199,6 +199,7 @@
 		"leaderName": "Zephiel",
 		"adjective": ["Bernese"],
   "personality": "Zephiel",
+  "style": "Nordic",
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Eliminism",
 		"startBias": ["Hill", "Tundra"],
@@ -387,6 +388,7 @@
 		"leaderName": "Lyn",
 		"adjective": ["Sacaean"],
   "personality": "Lyn",
+  "style": "East Asian",
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Naturism",
 		"startBias": ["Plains"],
