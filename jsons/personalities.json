@@ -1,0 +1,37 @@
+[
+{
+"name": "Roy",
+                "preferredVictoryType": "Diplomatic",
+                "food": 6,
+                "production": 3,
+                "gold": 5,
+                "culture": 7,
+                "science": 4,
+                "faith": 2,
+                "military": 8,
+                "warMongering": 7,
+"priorities": {
+    "Liberty": 50,
+    "Honor": 20,
+    "Freedom": 10,
+"Patronage": 30
+}
+        },
+ {
+                "name": "Lyn",
+                "preferredVictoryType": "Neutral",
+                "food": 5,
+                "production": 2,
+                "gold": 4,
+                "culture": 8,
+                "science": 2,
+                "faith": 6,
+                "military": 6,
+                "warMongering": 5,
+"priorities": {
+    "Honor": 20,
+    "Tradition": 40,
+    "Liberty": 30
+}
+        },
+]
