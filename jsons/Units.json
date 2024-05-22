@@ -156,12 +156,14 @@
 		"name": "Armored Knight",
 		"unitType": "Sword",
 		"uniqueTo": "The Lycian League",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <when defending>", "[+33]% Strength <when attacking> <vs [Fortified] units>", "[-20]% Strength <when attacking>", "[+20]% Strength <when attacking> <vs cities>", "[+33]% Strength <when attacking> <with [20]% chance>"],
+		"uniques": ["[+33]% Strength <when defending>", "[+33]% Strength <when attacking> <vs [Fortified] units>", "[-20]% Strength <when attacking>", "[+20]% Strength <when attacking> <vs cities>", "[+33]% Strength <when attacking> <with [20]% chance>"],
 		"movement": 1,
 		"strength": 15,
-		"cost": 65,
+		"replaces": "Catapult",
+		"cost": 75,
 		"requiredTech": "Iron Working",
-		"requiredResource": "Iron",
+		"requiredResource": "Iron",
+
 		"promotions": ["Cover I"],
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit" 
@@ -186,7 +188,7 @@
 	
 	{
 		"name": "Nomad",
-		"unitType": "Archery",
+		"unitType": "Mounted",
 		"uniqueTo": "Sacaean", 
 		"replaces": "Chariot Archer",
 		"cost": "50",
