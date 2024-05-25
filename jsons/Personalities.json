@@ -52,4 +52,21 @@
 "Rationalism": 20
 }
         },
+{
+                "name": "Penis",
+                "preferredVictoryType": "Domination",
+                "food": 1,
+                "production": 2,
+                "gold": 9,
+                "culture": 4,
+                "science": 8,
+                "faith": 2,
+                "military": 8,
+                "warMongering": 10,
+"priorities": {
+    "Rationalism": 20,
+    "Tradition": 10,
+    "Exploration": 5
+}
+        },
 ]
