@@ -431,6 +431,7 @@
 		"adjective": ["Black Fang"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Eliminism",
+  "personality": "Penis",
 		
 		"startIntroPart1": "Glory to you Lord Nergal! O' powerful one and the mastermind behind the Fang! Athos and his meddling ways for your dreams of achieving your power has been a long trife for your aspiration of being the most powerful being in Elibe. Urging you to stop over your ingenious experiment of sucking away quintessence from living beings. But eventually banishing you from Arcadia by force. Expelling you for hundreds of years into the dark. Leaving you mortally wounded forever leaving the scar, that is marked on your face. But then you found the perfect opportunity in the midst of your trial: The Black Fang, a League of Assassins. With your cunningness, you had managed to manipulate them from the dark thanks to your ability to craft morphs, spawning Sonia and Limstella as false allies for their foolish leaders to listen to. Leaving you, their shadowy leader, controlling them from the dark.",
 		"startIntroPart2": "Lord Nergal, the time has come. Athos is now at your mercy thanks to the power you have been witholding, and there is no one else to stop you from your dreams. Can you conquer the strongest to become the one on top? Can you make the Black Fang grow even stronger than before? Can you build a civilization that will stand the test of time?",
@@ -440,7 +441,7 @@
 		"defeated": "Nooo! Why? Why must I lose now? Not without... Achieving my true potential!",
 		"introduction": "So... It seems you have finally found me. Hehehe! A pleasure to meet you.",
 		
-		"neutralHello": "Greetings...",
+		"neutralHello": "Penis...",
 		"neutralLetsHearIt": ["Hmmmm?","Yes?","Go ahead."],
 		"neutralNo": ["No.","Not.","Unacceptable."],
 		"neutralYes": ["It pleases me.","Excellent.","Just as what I wanted."],
@@ -456,7 +457,7 @@
 		"outerColor": [0,0,51],
 		"innerColor": [204,204,0],
 		"uniqueName": "The Fang's Judgement", //Espionage based unique, must be replaced by it once espionage has been implemented.
-		"uniques": ["\"Borrows\" city names from other civilizations in the game", "[+2] Movement <when at war>", "[Land] units gain the [The Fang Watches] promotion"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game", "[+2] Movement <when at war>", "[-1 Food] [in all cities]", "Gain an extra spy <upon founding a city>", "[Land] units gain the [The Fang Watches] promotion"],
 		"cities": ["Valor"]
         "spyNames": ["Limstella", "Sonia", "Ephidel", "Denning", "Brendan", "Lloyd", "Linus", "Ursula", "Jaffar", "Jerme"]
 	},
