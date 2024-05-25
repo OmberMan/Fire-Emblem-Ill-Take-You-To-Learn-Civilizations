@@ -84,7 +84,7 @@
 	
 	{
 		"name": "Swipe", // should be unique to thief
-		"uniques": ["Earn [50]% of the damage done to [Land] units as [Gold]"]
+		"uniques": ["Earn [100]% of the damage done to [Land] units as [Gold]"]
 	},
 	
 	{
@@ -95,7 +95,7 @@
 	
 	{
 		"name": "The Fang Watches",
-		"uniques": ["Can see over obstacles"]
+		"uniques": ["Can see over obstacles", "[+50]% to Flank Attack bonuses", "Invisible to non-adjacent units", "Can see invisible [All] units", "[-30%] Strength <when defending>", "Ignores Zone of Control"]
 	},
 	
 //Magical Units
@@ -200,7 +200,7 @@
 	{
 		"name": "Dragonkiller Weapons",
 		"prerequisites": ["Shock I", "Drill I"]
-		"uniques": ["[+50]% Strength <vs [Manekete] units>","[+50]% Strength <vs [Mage Manekete] units>","[+50]% Strength <vs [Flying Manekete] units>"],
+		"uniques": ["[+50]% Strength <vs [Manekete] units>","[+50]% Strength <vs [Mage Manekete] units>","[+50]% Strength <vs [Flying Manekete] units>", "[+100]% Strength <vs [Dragonrider] units>", "[+100]% Strength <vs [Young Dragon] units>"],
 		"unitTypes": ["Sword","Mounted","Flying Mount","Lord Melee","Lord Mounted"]
 	},
 	
@@ -362,13 +362,13 @@
 	
 	{
 		"name": "Ambush I",
-		"uniques": ["[+33]% Strength <vs [Armored] units>"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>", "[+33]% Strength <vs [Construct] units>", "[+33]% Strength <vs [Overjoyed] units>", "[+33]% Strength <vs [Dragonrider] units>"],
 		"unitTypes": ["Sword","Gunpowder","Fighter","Bomber","Lord Melee"]
 	},
 	{
 		"name": "Ambush II",
 		"prerequisites": ["Ambush I"],
-		"uniques": ["[+33]% Strength <vs [Armored] units>"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>", "[+33]% Strength <vs [Construct] units>", "[+33]% Strength <vs [Overjoyed] units>", "[+33]% Strength <vs [Dragonrider] units>"],
 		"unitTypes": ["Sword","Gunpowder","Fighter","Bomber","Lord Melee"]
 	},
 	
