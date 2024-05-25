@@ -163,6 +163,8 @@
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Naturism",
 		"startBias": ["Plains"],
+"outerColor": [135,206,235],
+		"innerColor": [0,100,0],
 		
 		"startIntroPart1": "May Father Sky and Mother Earth grace you o' lady Sue, Doe of the Plains! The land of Sacae was once a peaceful place to live within. It can be found within the north of the Kingdom of Bern and South of Ilia, and has a such vast plains where many enjoys the life of the nomad. Though from time to time, it was raided and attacked by the banditry, the lands were still a place where many nomadic tribes choose to settle. Though all of it changed when Zephiel invaded as he pursues his ambition of forging a world, ruled by dragons which was paved by the blood of many. You were later captured by those loyal to Zephiel and were supposedly used as a bargaining tool to the Silver Wolf, which is your grandfather but were liberated by General Roy of the Lycian army before it even happened, and together you fought the war with him until the downfall of Bern."
 		"startIntroPart2": "Long divided by the interests of the people, Sacae must unite now more than ever. And as the hero of the war and the granddaughter of the Silver Wolf, you are the only one who can bring unity to the people. Lady Sue, can you unite Sacae under one banner? Can you build a civilization that can stand the test of time?",
@@ -225,10 +227,10 @@
 		"afterPeace": "You fought well, I shall not underestimate you next time.",
 		"tradeRequest": "This offer will surely serve both of our interests.",
 
-		"outerColor": [67, 27, 107],
-		"innerColor": [207, 209, 86],
+		"outerColor": [87, 27, 127],
+		"innerColor": [207, 209, 76],
 		"uniqueName": "A World Ruled by Dragonkind",
-		"uniques": ["[+4 Production, +1 Faith] from every [Mountain] <after discovering [Mining]>","[+1 Production] from every [Mountain] <after discovering [Iron Working]>","[+1 Production] from every [Mountain] <after discovering [Dynamite]>","[-33]% Unhappiness from [Population] [in annexed cities]", "Nullifies Growth [in puppeted cities]", "[+3 Culture, +1 Happiness, +2 Faith] from [Mountain] tiles [in puppeted cities]", "[+1 Culture, +1 Happiness, +1 Faith] from [Hill] tiles [in puppeted cities]", "[-50]% unhappiness from the number of cities", "[+10]% Strength <within [2] tiles of a [Mountain]", "Cities are razed [2] times as fast"], //Should not suffer from resistance penalties instead. Also +1 Production from mountains in an event after discovering dynamite instead.
+		"uniques": ["[+4 Production, +1 Faith] from every [Mountain] <after discovering [Mining]>", "[+1 Production] from every [Sheep]", "[+1 Culture] from every [Gems]", "[+1 Production] from every [Mountain] <after discovering [Iron Working]>","[+1 Production] from every [Mountain] <after discovering [Dynamite]>","[+33]% Unhappiness from [Population] [in all cities]", "Nullifies Growth [in puppeted cities]", "[+3 Culture, +1 Happiness, +2 Faith] from [Mountain] tiles [in puppeted cities]", "[+1 Culture, +1 Happiness, +1 Faith] from [Hill] tiles [in puppeted cities]", "[+8 Happiness] [in cities being razed]", "[-50]% unhappiness from the number of cities", "[+10]% Strength <within [2] tiles of a [Mountain]", "Cities are razed [2] times as fast"], //Should not suffer from resistance penalties instead. Also +1 Production from mountains in an event after discovering dynamite instead.
 		"cities": ["Bern","Zuria","Gweneva","Churica","Valais","Freibourg","Holligen","Britefield","Altenburg","Könizia","Beruth","Alaman","Rosewerg","Lieberaum","Giswyl","Guivarum","Acturica","Thun","Lucren","Dragon Sanctuary","Shrine of Seals"]
 		"spyNames": ["Murdock", "Brunya", "Narcian", "Galle", "Zeiss", "Ruud", "Slater", "Raith", "Oates", "Flaer"]
 	},
@@ -414,10 +416,11 @@
 		"afterPeace": "I am grateful for you, giving peace a chance once more.",
 		"tradeRequest": "I shall offer you the finest of Sacae.",
 
-		"outerColor": [135,206,235],
-		"innerColor": [0,100,0],
+		
+"outerColor": [73, 159, 28],
+		"innerColor": [161, 2, 2],
 		"uniqueName": "Sacaean Valor",
-		"uniques": ["+[15]% combat bonus for units fighting in [Ger]","+[10]% combat bonus for units fighting in [Plains]","[+1 Food, +1 Production] in cities on [Plains] tiles", "[+1 Culture] from every [Plains] <in tiles without [Hill]> <in tiles without [Forest]> <in tiles without [Jungle]>","Double quantity of [Horses] produced"], 
+		"uniques": ["[+15]% Strength <when fighting in [Ger] tiles>","[+10]% Strength <when fighting in [Plains] tiles> <for [Ranged] units>","[+1 Food, +1 Production] in cities on [Plains] tiles", "[+1 Culture] from every [Plains] <in tiles without [Hill]> <in tiles without [Forest]> <in tiles without [Jungle]>","Double quantity of [Horses] produced"], 
 		"cities": ["Bulgar","Kutolah","Djute","Lorca","Taras","Mulagir","Hunnia","Mongul","Siogna","Scituma","Transokur","Korum-Korum","Sogdiakar","Sianba","Saramatu","Taliver","Thraka","Gokturka","Turkkikik","Cumani","Kipapachak","Manchupiuka","Berbrik","Kazakahal","Bedou-ani","Sintikop"]
 		"spyNames": ["Rath", "Guy", "Florina", "Sain", "Kent", "Karel", "Karla", "Wallace", "Raven", "Lucius"]
 	},		
