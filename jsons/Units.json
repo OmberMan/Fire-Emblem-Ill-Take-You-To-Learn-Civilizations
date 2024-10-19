@@ -229,7 +229,7 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 11,
-		"cost": 75,
+		"cost": 85,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Swordsmaster",
 		"uniques": ["May withdraw before melee ([33]%)","[+50]% Strength <when attacking>","Upgrades to a stronger version"],
@@ -688,15 +688,14 @@
 	{
 		"name": "Thief",
 		"unitType": "Sword",
-		"replaces": "Longswordsman",
+		"replaces": "Chariot Archer",
 		"uniqueTo": "The Black Fang",
 		"movement": 2,
-		"strength": 16,
-		"cost": 100,
-		"requiredTech": "Steel",
-		"upgradesTo": "Assassin",
+		"strength": 7,
+		"cost": 40,
+		"requiredTech": "Pottery",
 		"obsoleteTech": "Gunpowder",
-		"attackSound": "metalhit"
+		"attackSound": "nommetalhit"
 		"promotions": ["Swipe"]
 		"uniques": ["Can be upgraded to stronger version","Invisible to non-adjacent units","May enter foreign tiles without open borders"],
 	},
@@ -704,17 +703,16 @@
 	{
 		"name": "Assassin",
 		"unitType": "Sword",
-		"replaces": "Musketman"
+		"replaces": "Spearman"
 		"uniqueTo": "The Black Fang",
-		"movement": 2,
-		"strength": 23,
-		"cost": 150,
-		"requiredTech": "Gunpowder",
+		"movement": 3,
+		"strength": 9,
+		"cost": 60,
+		"requiredTech": "Bronze Working",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["Will not be displayed in Civilopedia","[+100]% Strength <when attacking> <with [10]% chance>","Invisible to non-adjacent units","May enter foreign tiles without open borders"],
+		"uniques": ["Will not be displayed in Civilopedia","[+100]% Strength <when attacking> <with [50]% chance>","Invisible to non-adjacent units","May enter foreign tiles without open borders"],
 	}
 	//Magvelian
 	
