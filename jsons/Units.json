@@ -188,19 +188,19 @@
 	
 	{
 		"name": "Nomad",
-		"unitType": "Mounted",
+		"unitType": "Scout",
 		"uniqueTo": "Sacaean", 
 		"replaces": "Chariot Archer",
 		"cost": "50",
 		"range": "2",
-		"movement": "4",
-		"strength": "6",
+		"movement": "3",
+		"strength": "7",
 		"rangedStrength": "10",
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Nomadic Trooper",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-100]% maintenance costs", "Ignores Zone of Control", "Ignores terrain cost"],
 		"attackSound": "arrow"
 	},
 	
@@ -984,7 +984,8 @@
 		"strength": 15,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Feral Mage Dragon (Medieval)",
+		"upgradesTo": "Feral Mage Dragon (
+		Medieval)",
 		"obsoleteTech": "Steel",
 		"promotions": ["Magestone","Resistance I"],
 		"uniques": ["Upgrades to stronger versions each era","Will not be displayed in Civilopedia"],
