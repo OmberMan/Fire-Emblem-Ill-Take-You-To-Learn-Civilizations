@@ -982,8 +982,7 @@
 		"strength": 15,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Feral Mage Dragon (
-		Medieval)",
+		"upgradesTo": "Feral Mage Dragon (Medieval)",
 		"obsoleteTech": "Steel",
 		"promotions": ["Magestone","Resistance I"],
 		"uniques": ["Upgrades to stronger versions each era","Will not be displayed in Civilopedia"],
