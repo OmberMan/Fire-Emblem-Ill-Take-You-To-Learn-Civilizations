@@ -266,7 +266,7 @@
 		"requiredTech": "Horseback Riding",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Wyvern Lord",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Can pass through impassable tiles","Ignores terrain cost","Upgrades to a stronger version"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Can pass through impassable tiles","Ignores terrain cost","Upgrades to a stronger version", "May Paradrop up to [7] tiles from inside friendly territory", "All tiles cost 1 movement", "May travel on Water tiles without embarking"],
 		"attackSound": "Elephant"
 	},
 	
@@ -281,7 +281,7 @@
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Helicopter Gunship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Can pass through impassable tiles","Ignores terrain cost","Will not be displayed in Civilopedia"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Can pass through impassable tiles","Ignores terrain cost","May Paradrop up to [7] tiles from inside friendly territory", "All tiles cost 1 movement", "May travel on Water tiles without embarking"],
 		"attackSound": "metalhit"
 	},
 	
@@ -290,7 +290,7 @@
 		"unitType": "Civilian",
 		"replaces": "Great General",
 		"uniqueTo": "Bern",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can construct [Citadel]","Great Person - [War]", "Unbuildable", "Uncapturable","Can pass through impassable tiles","Ignores terrain cost"], //Hovering Unit
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can construct [Citadel]","Great Person - [War]", "Unbuildable", "Uncapturable","Can pass through impassable tiles","Ignores terrain cost", "May Paradrop up to [7] tiles from inside friendly territory", "All tiles cost 1 movement", "May travel on Water tiles without embarking"], //Hovering Unit
 		"movement": 6
 	},
 	
